@@ -9,7 +9,7 @@ markdown: kramdown
 #Links that will appear in the navbar
 primarylinks:
  - title: LinkedIn
-   url: https://www.linkedin.com/in/matt-ramsey-89a2a5145/
+   url: https://www.linkedin.com/in/matt-ramsey-89a2a5145
 
 #Any buzzword skills you want to include
 skills:
