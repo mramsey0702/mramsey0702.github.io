@@ -38,17 +38,17 @@ roles:
    start: 2019
    end: Ongoing
    employer: City Mattress
-   description: Responsibilities include: Tier 2 and Tier 3 ticket work, Analyze Service Desk activities, services, and staff performance, Implement new measures to increase efficiency of the Service Desk (create dashboards, KPIs, new processes, SLAs, etc.) Maintain and improve the health of the Service Desk queue, Plan, prioritize and schedule Service Desk activities to ensure maximum issue resolutions in minimum time, Perform IT management using the ITIL framework, Manage Service Desk team members, Ensure that department milestones and goals are met (SLAs, KPIs, etc.), Project management and project execution, Inventory management and purchasing.
+   description: Tier 2 and Tier 3 ticket work, Analyze Service Desk activities, services, and staff performance, Implement new measures to increase efficiency of the Service Desk (create dashboards, KPIs, new processes, SLAs, etc.) Maintain and improve the health of the Service Desk queue, Plan, prioritize and schedule Service Desk activities to ensure maximum issue resolutions in minimum time, Perform IT management using the ITIL framework, Manage Service Desk team members, Ensure that department milestones and goals are met (SLAs, KPIs, etc.), Project management and project execution, Inventory management and purchasing.
  - title: Senior Data Recovery Engineer
    start: 2018
    end: 2019
    employer: CPR Tools Inc.
-   description: Level of security clearance obtained: SECRET. Responsibilities include: Perform data recoveries on various types of media including hard drives, phones, thumb drives, etc., Digital forensics, Help design and develop new techniques and prototypes for use in data recovery and security fields, Train data recovery technicians, Other duties include soldering, chip removal.
+   description: Level of security clearance obtained: SECRET. Perform data recoveries on various types of media including hard drives, phones, thumb drives, etc., Digital forensics, Help design and develop new techniques and prototypes for use in data recovery and security fields, Train data recovery technicians, Other duties include soldering, chip removal.
  - title: Remote Support Technician
    start: 2016
    end: 2018
    employer: The Client Server, Inc.
-   description: Responsibilities include: Tier 1 and Tier 2 ticket work, Email account creation and troubleshooting, Phone setup and troubleshooting, Client workstation and network monitoring, Client ticket follow-ups, Workstation/Server backups, Active Directory management, Printer setup and troubleshooting, Network setup and troubleshooting,
+   description: Tier 1 and Tier 2 ticket work, Email account creation and troubleshooting, Phone setup and troubleshooting, Client workstation and network monitoring, Client ticket follow-ups, Workstation/Server backups, Active Directory management, Printer setup and troubleshooting, Network setup and troubleshooting,
  
 #Education is required
 education:
