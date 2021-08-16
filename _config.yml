@@ -13,21 +13,19 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
- - Scala
- - Akka-http
- - Microservices
- - Slick
- - Product management
- - API design
- - Groovy
- - Spring MVC/Boot/Social
- - Gradle
- - Java
- - JPA
- - SQL
- - REST
- - Technical Architecture
- - Machine learning
+- Microsoft Azure
+- Microsoft 365
+- Managing ERP systems
+- VMWare
+- ESXi/Vcenter
+- Active Directory
+- Group Policy
+- Automation
+- Cisco Meraki
+- Linux
+- Project management
+- Excellent communication skills
+- Complex problem-solver
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
