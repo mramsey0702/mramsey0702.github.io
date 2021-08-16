@@ -34,7 +34,7 @@ blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
- - title: Lead IT Support Specialist
+ - title: System Administrator
    start: 2019
    end: Ongoing
    employer: City Mattress
