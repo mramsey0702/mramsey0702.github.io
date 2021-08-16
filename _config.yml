@@ -38,7 +38,7 @@ roles:
    start: 2019
    end: Ongoing
    employer: City Mattress
-   description: Tier 2 and Tier 3 ticket work, Analyze Service Desk activities, services, and staff performance, Implement new measures to increase efficiency of the Service Desk (create dashboards, KPIs, new processes, SLAs, etc.) Maintain and improve the health of the Service Desk queue, Plan, prioritize and schedule Service Desk activities to ensure maximum issue resolutions in minimum time, Perform IT management using the ITIL framework, Manage Service Desk team members, Ensure that department milestones and goals are met (SLAs, KPIs, etc.), Project management and project execution, Inventory management and purchasing.
+   description: Responsible for the maintenance, configuration, and reliable operation of computer systems, network servers, and virtualization. Install and upgrade computer components and software, manage virtual servers, and integrate automation processes. Troubleshoot hardware and software errors by running diagnostics, documenting problems and resolutions, prioritizing problems, and assessing impact of issues. Manage two internally hosted ERP systems (Storis and OHM). Administer Microsoft Azure system and Microsoft Azure AD users/roles. Implement and manage internal and revenue generating projects. Tier 3 Service Desk escalations.
  - title: Senior Data Recovery Engineer
    start: 2018
    end: 2019
