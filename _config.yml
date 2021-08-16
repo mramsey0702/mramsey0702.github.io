@@ -37,13 +37,13 @@ roles:
    end: Ongoing
    employer: City Mattress
    description: 
-- Responsible for the maintenance, configuration, and reliable operation of computer systems, network servers, and virtualization
-- Install and upgrade computer components and software, manage virtual servers, and integrate automation processes
-- Troubleshoot hardware and software errors by running diagnostics, documenting problems and resolutions, prioritizing problems, and assessing impact of issues
-- Manage two internally hosted ERP systems (Storis and OHM)
-- Administer Microsoft Azure system and Microsoft Azure AD users/roles
-- Implement and manage internal and revenue generating projects
-- Tier 3 Service Desk escalations
+- Responsible for the maintenance, configuration, and reliable operation of computer systems, network servers, and virtualization <br/><br/>
+- Install and upgrade computer components and software, manage virtual servers, and integrate automation processes <br/><br/>
+- Troubleshoot hardware and software errors by running diagnostics, documenting problems and resolutions, prioritizing problems, and assessing impact of issues <br/><br/>
+- Manage two internally hosted ERP systems (Storis and OHM) <br/><br/>
+- Administer Microsoft Azure system and Microsoft Azure AD users/roles <br/><br/>
+- Implement and manage internal and revenue generating projects <br/><br/>
+- Tier 3 Service Desk escalations <br/><br/>
  - title: Senior Data Recovery Engineer
    start: 2018
    end: 2019
